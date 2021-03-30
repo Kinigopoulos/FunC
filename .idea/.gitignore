@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+
+# webstorm
+build/
+api/node_modules
